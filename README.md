@@ -28,3 +28,5 @@ Simplified demo:
 
 ![Demo 1](img/user1.png)![Demo 2](img/admin_1.png)
 
+## Acknowledgement
+This repository stores the codes, data, and report PDF of the course CSC3170: Database System in CUHK(SZ) 2023 Fall semester. Zixiao Wang, Yunfei Ke, and Lingyi, Yang contribute to this project equally. If you want to take the project as a reference to your work, please add a reference.
