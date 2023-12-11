@@ -25,5 +25,6 @@ streamlit run combinev1.py
 ```
 
 Simplified demo:
+
 ![Demo 1](img/user1.png)![Demo 2](img/admin_1.png)
 
