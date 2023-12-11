@@ -24,6 +24,6 @@ cd ../front-end
 streamlit run combinev1.py
 ```
 
-![Demo 1](img/admin_1.png)
-![Demo 2](img/user1.png)
+Simplified demo:
+![Demo 1](img/user1.png)![Demo 2](img/admin_1.png)
 
