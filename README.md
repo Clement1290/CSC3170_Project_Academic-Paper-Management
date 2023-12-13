@@ -5,7 +5,7 @@ The exponential growth of scholarly literature has created challenges in managin
 
 ## 📕 Database
 The ER diagram of the database is shown below:
-![ER](img/ERD.png)
+![ER](ERD.png)
 
 The direct directory `database` contains the data and SQL codes to create the database. You can create the database:
 
